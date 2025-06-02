@@ -59,4 +59,4 @@ Have questions or suggestions? Reach out via [your-email@example.com] or open an
 
 ---
 
-© 2025 JS Bootcamp by [Your Name or Brand]
+© 2025 JS Bootcamp by Ettisaf Rup, [LoopNest]

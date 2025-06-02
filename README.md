@@ -43,12 +43,6 @@ Welcome to the **JavaScript Bootcamp**! This bootcamp is designed to take you fr
 
 ---
 
-## 🙌 Contributing
-
-Feel free to contribute or report issues. Let's learn and grow together!
-
----
-
 ## 📬 Contact
 
 Have questions or suggestions? Reach out via [ettisafrup@gmail.com] or open an issue.

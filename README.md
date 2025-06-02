@@ -51,7 +51,7 @@ Feel free to contribute or report issues. Let's learn and grow together!
 
 ## 📬 Contact
 
-Have questions or suggestions? Reach out via [your-email@example.com] or open an issue.
+Have questions or suggestions? Reach out via [ettisafrup@gmail.com] or open an issue.
 
 ---
 

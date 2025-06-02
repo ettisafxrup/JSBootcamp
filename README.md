@@ -17,6 +17,7 @@ Welcome to the **JavaScript Bootcamp**! This bootcamp is designed to take you fr
 - ES6+ & Debugging
 
 ### 🎁 Extra Bonus Course Videos:
+<i>this will be mailed to all the students privately into their mails!</i>
 
 - ✅ GitHub Customization (Profile ReadMe, Stats, etc.)
 - ✅ JavaScript Coding Environment Setup (VS Code, ESLint, Prettier)
